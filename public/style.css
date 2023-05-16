@@ -121,3 +121,7 @@ input {
     padding: 10px;
     border: none;
 }
+
+#map {
+    height: 80%;
+}
